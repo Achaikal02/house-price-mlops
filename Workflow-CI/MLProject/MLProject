@@ -1,0 +1,5 @@
+name: house-price-mlops
+
+entry_points:
+  main:
+    command: "python modelling.py"

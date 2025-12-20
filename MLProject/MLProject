@@ -1,5 +1,0 @@
-name: house-price-prediction
-
-entry_points:
-  main:
-    command: "python train.py"
