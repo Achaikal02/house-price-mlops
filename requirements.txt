@@ -4,3 +4,12 @@ numpy
 joblib
 scikit-learn
 prometheus-client
+mlflow
+scikit-learn
+pandas
+numpy
+joblib
+fastapi
+uvicorn
+python-multipart
+prometheus-client
